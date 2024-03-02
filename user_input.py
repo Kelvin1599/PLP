@@ -1,8 +1,8 @@
 NAME = input('What is your name:')
 print('You entered:', NAME)
 
-age = input ('what is your age:')
-print('You entered:', age)
+AGE = input ('what is your age:')
+print('You entered:', AGE)
 
 
 location = input ('what is your location:')
